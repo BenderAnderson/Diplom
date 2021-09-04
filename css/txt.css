@@ -1,0 +1,38 @@
+.cntHeader h6{
+    font-family: TT Norms;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: right;   
+    color: white; 
+}
+.cntHeader p{
+    font-family: TT Norms;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: right;   
+    color: white; 
+}
+.cntHeader a{
+    text-decoration: none;
+}
+.navHeader p{
+    font-family: TT Norms;
+font-size: 18px;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: right;
+color: white;
+}
+.navHeader ul{
+    list-style: none;
+}
+.navHeader li a{
+    text-decoration: none;
+color: white;
+}

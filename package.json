@@ -1,0 +1,30 @@
+{
+  "name": "Diplom",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "BenderAnderson <shikarno174@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.2.0",
+    "mini-css-extract-plugin": "^2.2.2",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^12.1.0",
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "loader": "^2.1.1",
+    "sass": "^1.37.5"
+  },
+  "repository": "git+https://github.com/BenderAnderson/Diplom.git",
+  "bugs": {
+    "url": "https://github.com/BenderAnderson/Diplom/issues"
+  },
+  "homepage": "https://github.com/BenderAnderson/Diplom#readme"
+}

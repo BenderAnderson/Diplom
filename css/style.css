@@ -1,0 +1,33 @@
+*,html, body{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    background: url(../img/Splash.png);
+    background-size: 100% 800px;
+    background-repeat: no-repeat;
+}
+.header{
+    display: flex;
+    width: 100%;
+    margin: 50px auto;
+}
+.lodo{
+    margin: 50px auto;
+    padding-left: 60px;
+}
+.right{
+    display: flex;
+    justify-content: flex-end;
+}
+.cntHeader{
+    width: 564px;
+    height: 24px;
+    display: flex;
+    justify-content: space-around;
+}
+.boxNavHeader{
+    width: 404px;
+    height: 21px;
+}

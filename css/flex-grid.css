@@ -1,0 +1,21 @@
+.fl-jc-fStart{
+    display: flex;
+    justify-content: flex-start;
+}
+.fl-jc-fEnd-row{
+display: flex;
+justify-content: flex-end;
+flex-direction: row;
+}
+.fl-jc-sb{
+    display: flex;
+    justify-content: space-between;
+}
+.fl-jc-ca{
+    display: flex;
+    justify-content: space-around;
+}
+.fl-fd-row{
+    display: flex;
+    flex-direction: row;
+}

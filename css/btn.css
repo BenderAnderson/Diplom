@@ -1,0 +1,20 @@
+/* header */
+/* .BtnHeader{
+    width: 82px;
+    height: 24px;
+} */
+.btnLang{
+    width: 82px;
+    height: 24px;
+    font-family: TT Norms;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: 14px;
+letter-spacing: 1px;
+text-align: center;
+}
+.btnLang:hover{
+    color: #F0145A;
+    border-radius: 8px;
+    }
