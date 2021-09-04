@@ -19,3 +19,6 @@ flex-direction: row;
     display: flex;
     flex-direction: row;
 }
+.testCommit{
+    color: red;
+}
